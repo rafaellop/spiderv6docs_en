@@ -1,0 +1,332 @@
+* {
+    color: #353535;
+    font-family: "Segoe UI", Tahoma, Verdana, Arial, "MS Sans Serif", Helvetica;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+
+
+BODY {
+    color: #353535;
+    font-family: "Segoe UI", Tahoma, Verdana, Arial, "MS Sans Serif", Helvetica;
+	 line-height: 1.6em;
+    background-color: #fdfdfd;
+    scrollbar-face-color: #ECECEC;
+    scrollbar-track-color: #EFEFEF;
+    scrollbar-highlight-color: #727272;
+    scrollbar-shadow-color: #727272;
+    scrollbar-3dlight-color: #EFEFEF;
+    scrollbar-arrow-color: #727272;
+    scrollbar-darkshadow-color: #EFEFEF;
+}
+
+table {
+	width: 100%;
+
+}
+
+.tbrelatedtopics {
+   background-color: #f3f3f3;
+   border-color: #cacaca;
+   border-style: solid;
+   border: 1px;
+	padding: 1rem;
+}
+
+IMG {
+	margin-right: 5px;
+	float: left;
+}
+
+P {
+   text-align: justify;
+}
+
+TT {
+	font-weight: bold;
+}
+
+H1 {
+   font-size: 2rem;
+   text-align: left;
+   font-weight: normal;
+	margin-top: 1.5rem;
+}
+
+H2 {
+   font-size: 1.5rem;
+   font-weight: normal;
+   text-align: left;
+	margin-top: 1.5rem;
+/*
+   border-top-color: #cacaca;
+   border-top-style: solid;
+   border-top-width: 1pt;
+*/
+}
+
+H3 {
+   font-size: 1.2rem;
+   font-weight: normal;
+   text-align: left;
+	margin-top: 1.5rem;
+/*
+   border-top-color: #64C9FF;
+   border-top-style: dotted;
+   border-top-width: 1pt;
+*/
+}
+
+H4 {
+   font-size: 1.1rem;
+   font-weight: normal;
+   text-align: left;
+}
+
+DIV {
+
+}
+
+INPUT {
+   background-color: #ECF3F4;
+   font-weight: normal;
+   border-color: #444444;
+   border-top-width: 1px;
+   border-right-width: 1px;
+   border-bottom-width: 1px;
+   border-left-width: 1px;
+   text-indent: 2px;
+}
+
+SELECT {
+   font-weight: normal;
+   background-color: #ECF3F4;
+   color: #353535;
+   border-color: #444444;
+   border-top-width: 1px;
+   border-right-width: 1px;
+   border-bottom-width: 1px;
+   border-left-width: 1px;
+   text-indent: 2px;
+}
+
+.srodek {
+   text-align: center;
+   font-weight: normal;
+}
+
+.prawa {
+   text-align: right;
+   font-weight: normal;
+}
+
+HR {
+   color: #006296;
+   height: 1pt;
+   width: 100%;
+}
+
+A {
+	color: #006296;
+    text-decoration: none;
+    font-variant: normal;
+	 border-bottom: 1px dotted #006296;
+}
+
+A:LINK {
+	color: #006296;
+    text-decoration: none;
+    font-variant: normal;
+	 border-bottom: 1px dotted #006296;
+}
+
+A:ACTIVE {
+    color: #F50;
+    text-decoration: none;
+    font-variant: normal;
+	 border-bottom: 1px dotted #F50;
+}
+
+A:VISITED {
+	color: #006296;
+    text-decoration: none;
+    font-variant: normal;
+	 border-bottom: 1px dotted #006296;
+}
+
+
+A:HOVER {
+    color: #F50;
+    text-decoration: none;
+    font-variant: normal;
+	 border-bottom: 1px dotted #F50;
+}
+
+PRE {
+   font: 9pt Courier;
+   text-align: left;
+   background: #D2DBDE;
+   padding: 15px 15px 15px 15px;
+   margin: 5px 5px 5px 5px;
+   border: 1px dotted #000000;
+	clear: both;
+}
+
+.czerwony {
+   color: #FF0000;
+   font-weight: bold;
+}
+
+p.czerwony {
+	float: left;
+	vertical-align: text-top;
+	margin-top: 0px;
+}
+
+LI {
+   padding-bottom: 2px;
+   padding-top: 3px;
+
+}
+
+SMALL {
+	font-size: 0.5rem;
+}
+
+.headerimage {
+	width: 100%;
+	height: 90px;
+	background-color: #fff;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-bottom: 1px solid #CECECE;
+}
+
+
+.fw {
+	width: 250px;
+	vertical-align: bottom;
+}
+
+.ftse {
+	width: 10px;
+}
+
+.fttdbbl {
+	border-bottom: 1px;
+	border-bottom-color: #828282;
+	border-bottom-style: solid;
+	border-right: 1px;
+	border-right-color: #828282;
+	border-right-style: solid;
+   padding-left: 3px;
+}
+
+.fttdblbbgrb {
+	border-bottom: 1px;
+	border-bottom-color: #D7D7D7;
+	border-bottom-style: solid;
+	border-right: 1px;
+	border-right-color: #828282;
+	border-right-style: solid;
+   padding-left: 3px;
+}
+
+.fttdblbbgrbodd {
+	background-color: #F8F8F8;
+}
+
+.fttdpro {
+	background-color: #FFF2B7;
+}
+
+.fttdstd {
+	background-color: #EFEFEF;
+}
+
+.fttdpronodot {
+	background-color: #FFEE9F;
+}
+
+.fttdstdnodot {
+	background-color: #EBEBEB;
+}
+
+.imgbottom {
+	vertical-align: middle;
+}
+
+.centertext {
+	text-align: center;
+}
+
+.prawa {
+   text-align: right;
+}
+
+.navbar .container {
+	margin-left: 0px;
+}
+
+@media (min-width: 576px) {
+	.navbar .container {
+		max-width: 100%;
+	}
+}
+
+@media (min-width: 768px) {
+	.navbar .container {
+		max-width: 100%;
+	}
+}
+
+.navbar a, .navbar a:link {
+	border-bottom: none;
+
+}
+
+.gs-snippet {
+	font-weight: normal;
+}
+
+.gs-visibleUrl span, .gs-visibleUrl-breadcrumb span {
+	font-weight: normal;
+	font-size: 0.8em!important;
+	color: #999;
+}
+
+.gs-result .gs-title *, .gsc-cursor-page, .gs-spelling a {
+	color: #006296!important;
+    text-decoration: none;
+    font-variant: normal;
+    border-bottom: 1px dotted #006296;
+	 font-weight: normal!important;
+	 font-size: 17px!important;
+}
+
+.nk-cookie-banner {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 999;
+    border-radius: 0px;
+    display: none;
+    background-color: #343a40!important;
+    color: #fff;
+  }
+
+.nk-cookie-banner button {
+   background-color: #20C19E;
+   border-color: #20C19E;
+}
+
+.cookietxt, .cookietxt a {
+   font-size: 14px;
+   font-weight: normal;
+}
+
+.cookietxt a {
+   color: inherit;
+   border-bottom: 1px dashed;
+}
