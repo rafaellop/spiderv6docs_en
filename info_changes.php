@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Spider V6 (6.0.0.1)">
+<meta name="Generator" content="Spider V6 (6.3.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>History of changes in the Spider</title>
@@ -36,8 +36,8 @@
 <h2>List of changes</h2>
 
 <h3>6.0.0</h3>
-<p>Published on 2021.06.01 <br>
- First release of V6. The history of changes will be published with subsequent versions.</p>
+<p>First published on 2021.06.01 <br>
+ First release of V6. The <a href="https://www.creamsoft.com/en/spider/spider-version-history/" target="_blank" rel="noopener noreferrer">history of changes</a> is published on our website.</p>
 
 </td>
 </tr>

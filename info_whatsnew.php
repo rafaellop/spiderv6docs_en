@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Spider V6 (6.0.0.1)">
+<meta name="Generator" content="Spider V6 (6.3.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>What's New?</title>
@@ -37,12 +37,12 @@
 <p>Without going into details, I will only list the most important changes in relation to version 5. The rest of smaller and bigger novelties I will leave for you to discover :)</p>
 
 <ul>
+  <li>New licensing model. The basic version is now free! You can also purchase a premium option, which gives you access to all features for a selected period of time or perpetually.</li>
 	<li>The division between Standard and Professional versions has been eliminated. Now there is only one Spider and it has everything without limitations.</li>
 	<li>Responsive website development and support for the latest HTML, CSS and PHP specifications.</li>
 	<li>Renewed interface with dark editor mode and new icons</li>
 	<li>A built-in tool for creating mobile applications for mobile devices as well as computers. Such applications can be, for example, uploaded to your phone or to popular app stores.</li>
 	<li>Dozens of new templates based on the most popular libraries like Bootstrap, Foundation, PureCSS and more.</li>
-	<li>Subscription licensing model, which can now be purchased for up to one month of use if you have a one-time project to do. In addition, also a perpetual license.</li>
 	<li>A built-in terminal for working with the command line, compiling applications, or using node and npm.</li>
 	<li>Extensive documentation for HTML, PHP, JS, CSS, frameworks and courses for learning these languages.</li>
 	<li>and more... :)</li>

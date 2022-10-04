@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Spider V6 (6.1.1.0)">
+<meta name="Generator" content="Spider V6 (6.3.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Trial and full version</title>
@@ -32,9 +32,9 @@
 
 <h1>Trial and full version</h1>
 
-<p>The Spider application up to the version 5 was distributed as a so-called <i>shareware</i> application which is limited by the number of runs or time. Currently, Spider V6 is available in the subscription and perpetual license formula. The subscription allows you to purchase rights to use the program for a specified period of time, e.g. a month or a year, but there is also a perpetual license that allows you to use the program without time limits. Updates to new versions in all options are available free of charge. For a subscription during its term, and for a perpetual license without limitations.</p>
+<p>The Spider application up to the version 5 was distributed as a so-called <i>shareware</i> application which is limited by the number of executions or time. Currently, Spider V6 in its basic functionality is available free of charge. Yes, that's right. You can use it completely free of charge, but not all features are available. Access to premium features expires after the trial period. Then you can stay with the basic version or buy the premium option, which gives you access to all functions for a selected period of time or indefinitely. So you can get access to the full functionality for, say, a month, or a year or two, but in addition to that, an indefinite license is also available, which allows you to use the program perpetually. Updates to new versions in all options are available free of charge.</p>
 
-<p><a href="https://www.creamsoft.com/rd.php?p=page&amp;bid=com.creamsoft.spider&amp;os=win&amp;lang=pl" target="_blank">The test version</a> of the application can therefore be used to familiarize yourself with the program's functions and its usefulness, and to decide whether to purchase a license for its further use after the limit of the trial version has been exhausted. If the program meets your expectations, please purchase a license for further use or <a href="info_uninstall.php">remove the program from your computer</a>.</p>
+<p><a href="https://www.creamsoft.com/rd.php?p=page&amp;bid=com.creamsoft.spider&amp;os=win&amp;lang=pl" target="_blank">The trial version</a> of the program can be used to get acquainted with all the program's features and its usefulness, and to decide whether or not to purchase a license for its continued use after the limit of the trial version is exhausted. After the trial version expires, you can continue to use the program free of charge in limited functionality or purchase access to premium features for a specified period of time or indefinitely.</a>.</p>
 
 </td>
 </tr>
